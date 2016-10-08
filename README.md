@@ -123,7 +123,7 @@ protected void onCreate(Bundle savedInstanceState) {
 ```
 效果：
 
-![](https://github.com/sunlianglong/Img/raw/master/Img/photos/volleyphoto.png) 
+![](https://github.com/sunlianglong/Img/raw/master/Img/Photos/volleyphoto.png) 
 
 
 
@@ -218,4 +218,4 @@ public class BitmapCache implements ImageLoader.ImageCache {
 
 效果：
 
-![](https://github.com/sunlianglong/Img/raw/master/Img/photos/volley.gif) 
+![](https://github.com/sunlianglong/Img/raw/master/Img/Photos/volley.gif) 
